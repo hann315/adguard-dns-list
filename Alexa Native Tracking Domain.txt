@@ -1,0 +1,16 @@
+!
+! Title: Block Alexa Native Tracking Domains
+! Description: Blocking Alexa Native Tracking Domains based on NextDNS native tracking domains list.
+! Homepage: https://github.com/hann315/adguard-dns-list
+! License: GPLv3
+! Last modified: 2023-06-02T09:52:15.979Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: GAFAM
+! Source: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
+!
+||data.alexa.com^
+||device-metrics-us.amazon.com^
+||device-metrics-us-2.amazon.com^

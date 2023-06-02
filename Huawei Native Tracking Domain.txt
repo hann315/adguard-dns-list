@@ -1,0 +1,50 @@
+!
+! Title: Block Huawei Native Tracking Domains
+! Description: Blocking Huawei Native Tracking Domains based on NextDNS native tracking domains list.
+! Homepage: https://github.com/hann315/adguard-dns-list
+! License: GPLv3
+! Last modified: 2023-06-02T09:53:27.390Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: GAFAM
+! Source: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
+!
+||datacollector-dra.dt.dbankcloud.cn^
+||datacollector-dra.dt.hicloud.com^
+||datacollector-drcn.dt.dbankcloud.cn^
+||datacollector-drcn.dt.hicloud.com^
+||datacollector-dre.dt.dbankcloud.cn^
+||datacollector-dre.dt.hicloud.com^
+||datacollector-drru.dt.dbankcloud.ru^
+||datacollector-drru.dt.hicloud.com^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
+||grs.hicloud.com^
+||grs.platform.dbankcloud.ru^
+||metrics-dra.dt.dbankcloud.cn^
+||metrics-dra.dt.hicloud.com^
+||metrics-drcn.dt.hicloud.com^
+||metrics-dre.data.dbankcloud.cn^
+||metrics-dre.dt.dbankcloud.cn^
+||metrics.data.hicloud.com^
+||metrics.dt.dbankcloud.cn^
+||metrics.dt.hicloud.com^
+||metrics1-drcn.dt.dbankcloud.cn^
+||metrics1.data.dbankcloud.cn^
+||metrics1.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics5.dt.dbankcloud.ru^
+||metrics6.dt.hicloud.com^
+||logservice-dra.platform.hicloud.com^
+||logservice-dre.platform.dbankcloud.cn^
+||logservice-dre.platform.hicloud.com^
+||logservice-drru.dt.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^

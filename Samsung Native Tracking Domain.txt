@@ -1,0 +1,17 @@
+!
+! Title: Block Samsung Native Tracking Domains
+! Description: Blocking Samsung Native Tracking Domains based on NextDNS native tracking domains list.
+! Homepage: https://github.com/hann315/adguard-dns-list
+! License: GPLv3
+! Last modified: 2023-06-02T09:54:44.054Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: GAFAM
+! Source: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
+!
+||nmetrics.samsung.com^
+||insights.samsung.com^
+||analytics.samsungknox.com^
+||bigdata.ssp.samsung.com^

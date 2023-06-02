@@ -1,0 +1,32 @@
+!
+! Title: Block Apple Native Tracking Domains
+! Description: Blocking Apple Native Tracking Domains based on NextDNS native tracking domains list.
+! Homepage: https://github.com/hann315/adguard-dns-list
+! License: GPLv3
+! Last modified: 2023-06-02T09:52:53.235Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: GAFAM
+! Source: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
+!
+||acfeedbackws.icloud.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||books-analytics-events.news.apple-dns.net^
+||dzc-metrics.mzstatic.com^
+||feedbackws.icloud.com^
+||iadsdk.apple.com^
+||metrics.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||notes-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
+||securemetrics.apple.com^
+||securemvt.apple.com^
+||stocks-analytics-events.apple.com^
+||stocks-analytics-events.news.apple-dns.net^
+||supportmetrics.apple.com^
+||weather-analytics-events.apple.com^
+||weather-analytics-events.news.apple-dns.net^

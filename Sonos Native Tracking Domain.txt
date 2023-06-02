@@ -1,0 +1,15 @@
+!
+! Title: Block Sonos Native Tracking Domains
+! Description: Blocking Sonos Native Tracking Domains based on NextDNS native tracking domains list.
+! Homepage: https://github.com/hann315/adguard-dns-list
+! License: GPLv3
+! Last modified: 2023-06-02T09:54:59.469Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: GAFAM
+! Source: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos
+!
+||msmetrics.ws.sonos.com^
+||msmetrics-test.ws.sonos.com^
