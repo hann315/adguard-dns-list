@@ -3,12 +3,12 @@
 ! Description: Blocking Roku Native Tracking Domains based on NextDNS native tracking domains list.
 ! Homepage: https://github.com/hann315/adguard-dns-list
 ! License: GPLv3
-! Last modified: 2023-06-02T09:53:50.430Z
+! Last modified: 2023-06-02T10:02:47.440Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
 !
-! Source name: GAFAM
+! Source name: NextDNS Native Tracking Domains
 ! Source: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku
 !
 ||logs.roku.com^

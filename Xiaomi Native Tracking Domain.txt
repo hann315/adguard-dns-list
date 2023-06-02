@@ -1,14 +1,14 @@
 !
-! Title: Block Xiaomi Native Tracking Domains
-! Description: Blocking Xiaomi Native Tracking Domains based on NextDNS native tracking domains list.
+! Title: Block Windows Native Tracking Domains
+! Description: Blocking Windows Native Tracking Domains based on NextDNS native tracking domains list.
 ! Homepage: https://github.com/hann315/adguard-dns-list
 ! License: GPLv3
-! Last modified: 2023-06-02T09:56:12.230Z
+! Last modified: 2023-06-02T10:01:57.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
 !
-! Source name: GAFAM
+! Source name: NextDNS Native Tracking Domains
 ! Source: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
 !
 ||sa.api.intl.miui.com^
