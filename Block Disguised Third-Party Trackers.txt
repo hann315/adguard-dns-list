@@ -1,9 +1,9 @@
 !
 ! Title: Disguised Third-Party Trackers
 ! Description: Block Disguised Third-Party Trackers
-! Homepage: https://example.org/
+! Homepage: https://github.com/hann315/adguard-dns-list
 ! License: GPLv3
-! Last modified: 2023-06-02T08:37:19.482Z
+! Last modified: 2023-06-02T08:39:03.609Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !

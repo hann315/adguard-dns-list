@@ -3,7 +3,7 @@
 ! Description: Unblock affiliate and tracking links.
 ! Homepage: https://example.org/
 ! License: GPLv3
-! Last modified: 2023-06-02T08:33:20.187Z
+! Last modified: 2023-06-02T08:39:45.646Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -11,7 +11,6 @@
 ! Source name: Allow Affiliate & Tracking Links
 ! Source: https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
 !
-
 @@7eer.net
 @@action.metaffiliation.com
 @@action.metaffiliation.com # CNAME of xht.micromania.fr
