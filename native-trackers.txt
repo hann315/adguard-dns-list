@@ -1,15 +1,3 @@
-!
-! Title: Block Native Trackers
-! Description: Blocking native trackers based on NextDNS Native Trackers blocklist.
-! Homepage: https://github.com/hann315/adguard-dns-list
-! License: GPLv3
-! Last modified: 2023-06-03T10:01:57.261Z
-!
-! Compiled by @adguard/hostlist-compiler v1.0.19
-!
-!
-! Source name: NextDNS Native Tracking Domains
-!
 ||data.alexa.com^
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
